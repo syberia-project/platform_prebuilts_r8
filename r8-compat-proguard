@@ -87,5 +87,3 @@ else
 fi
 
 exec java $javaOpts -jar "$jarpath" "$@"
-                                                                                
-
